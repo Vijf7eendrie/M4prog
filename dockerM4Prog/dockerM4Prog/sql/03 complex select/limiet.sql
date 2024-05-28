@@ -1,0 +1,1 @@
+SELECT * FROM `Huisdieren` LIMIT 1,3;

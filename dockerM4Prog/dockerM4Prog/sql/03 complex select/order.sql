@@ -1,0 +1,1 @@
+SELECT * FROM `Huisdieren` ORDER BY typedier ,naam  ASC;
